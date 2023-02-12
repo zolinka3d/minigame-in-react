@@ -1,0 +1,15 @@
+
+
+.App{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    
+}
+
+.score
+{
+    display: flex;
+    justify-content: center;
+}
